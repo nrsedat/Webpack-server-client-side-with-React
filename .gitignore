@@ -1,0 +1,5 @@
+#ignore below files
+node_modules/
+client/build/
+server/build/
+.sass-cache/

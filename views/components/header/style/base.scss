@@ -1,0 +1,27 @@
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.nav-border {
+  border: 1px solid #098789;
+}
+
+.grey-bg {
+  background: #333;
+  color: #fff;
+}
+.ecom a {
+  color: #fff;
+}
+.menu {
+  order: -1;
+}
+.logo {
+  display: block;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: #fff;
+  text-decoration: none;
+}
